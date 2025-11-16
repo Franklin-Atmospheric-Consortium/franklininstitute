@@ -1,7 +1,5 @@
 [Meteorological Imaginations and Conjectures, [May 1784]](https://founders.archives.gov/documents/Franklin/01-42-02-0184)
 
-This is a fascinating scientific paper by Benjamin Franklin from May 1784 titled “Meteorological Imaginations and Conjectures.” Let me break down what Franklin is discussing:
-
 ## The Mystery Franklin Was Investigating
 
 Franklin was trying to explain two connected phenomena from 1783-1784:
